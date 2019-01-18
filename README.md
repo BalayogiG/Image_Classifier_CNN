@@ -10,7 +10,7 @@ To understand the flow of work, please see the attached image below or click her
 <img src="https://cdncontribute.geeksforgeeks.org/wp-content/uploads/cat-vs-dog.jpg"><br>
 <b>Method:</b><br>
 <b>Step 1 :</b> Getting the Dataset<br>
-The dataset is available here .<br>
+The dataset is available <a href="https://github.com/balayogistark/Image_Classifier_CNN">here</a> .<br>
 <b>Step 2:</b> Installing Required Packages [Python 3.6]<br>
 <ol>
   <li>Numpy —> ‘1.14.4’ [ Image that is read will be stored in an numpy array ]</li>
