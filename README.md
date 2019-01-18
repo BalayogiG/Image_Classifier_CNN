@@ -2,7 +2,7 @@
 <b>A simple Image classifier for Cats and dogs</b>
 <br>
 This project aims to classify the input image as either a dog or a cat image. The image input which you give to the system will be analyzed and the predicted result will be given as output. Machine learning algorithm [Convolutional Neural Networks] is used to classify the image.
-The model thus implemented can be extended to a mobile device or any website as per the developer’s need.<br>
+<br>
 <b>Conceptual Framework:</b><br>
 The project is entirely implemented using Python3. The Conceptual Framework involved is mainly:<br>
 1) Keras – Tensorflow backend<br><br>
